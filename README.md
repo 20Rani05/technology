@@ -1,4 +1,4 @@
-# 🧠 Decentralized AI
+#project
 
 > A decentralized platform for secure, privacy-preserving, and collaborative AI model training and deployment using blockchain and peer-to-peer technologies.
 
